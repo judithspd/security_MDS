@@ -32,3 +32,12 @@ git clone https://github.com/judithspd/security_MDS.git
 ```
 pip install -r requirements.txt
 ```
+
+## More learning resources:
+- Rodríguez-Barroso, N., Stipcich, G., Jiménez-López, D., Ruiz-Millán, J. A., Martínez-Cámara, E., González-Seco, G., ... & Herrera, F. (2020). Federated Learning and Differential Privacy: Software tools analysis, the Sherpa. ai FL framework and methodological guidelines for preserving data privacy. Information Fusion, 64, 270-292. https://www.sciencedirect.com/science/article/pii/S1566253520303213.
+- Li, T., Sahu, A. K., Talwalkar, A., & Smith, V. (2020). Federated learning: Challenges, methods, and future directions. IEEE Signal Processing Magazine, 37(3), 50-60. https://ieeexplore.ieee.org/abstract/document/9084352. 
+- Federated Learning: Collaborative Machine Learning without Centralized Training Data. Google AI Blog. https://ai.googleblog.com/2017/04/federated-learning-collaborative.html.
+- Tensorflow Federated (TFF). https://www.tensorflow.org/federated/federated_learning.
+- Friedman, A., & Schuster, A. (2010, July). Data mining with differential privacy. In Proceedings of the 16th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 493-502). https://dl.acm.org/doi/abs/10.1145/1835804.1835868
+- Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang, L. (2016, October). Deep learning with differential privacy. In Proceedings of the 2016 ACM SIGSAC conference on computer and communications security (pp. 308-318). https://dl.acm.org/doi/abs/10.1145/2976749.2978318. 
+- Harvard University Privacy Tools Project. Differential Privacy. https://privacytools.seas.harvard.edu/differential-privacy.
