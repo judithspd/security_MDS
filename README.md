@@ -1,4 +1,5 @@
 # FEDERETED LEARNING AND DIFFERENTIAL PRIVACY EXAMPLES
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/judithspd/security_MDS/blob/master/LICENSE) 
 
 - In *ExampleNotes.ipynb* the need to introduce the concept of Differential Privacy (DP) is presented with an specific use case . 
 - In *Example_DP.ipynb* it is proposed to apply Differential Privacy to find the total and average cases of Covid-19 each month of 2021 in all the CCAA of Spain. For this purpose, we propose to use [PyDP](https://github.com/OpenMined/PyDP), study the results as a function of the privacy budget and compare with the real values.
